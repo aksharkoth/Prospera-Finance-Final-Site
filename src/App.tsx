@@ -446,9 +446,9 @@ function CaseStudies(){
 
 function About(){
   const team = [
-    { role:"Founder | Chief Executive Officer", name:"Akshar Kothapalli", img:"https://lh3.googleusercontent.com/sitesv/AICyYdZwNGOKC8laVsrJKA8jvw2GYbP1n-WEeZsrKYX17EuG-YNF5NgFvLEz69pZlnuswQAbFtoJaamf0xJP5PrNTcJgaveZCw_ZrHgxNuC5tWgHVSvz3T47SO9eJ5tMnUsAfszW9DR-pDz5t6kFklHuGJh3GtqtnENmGY66yERc1_r0_twilaGrNQqDtCPdqNzYDCIBu1HS0xEnAd7lWFDSoYKqRJsReEyTHrQeH9U=w1280", bio:"Founder & builder. Leads product, strategy, and client outcomes. Mission: make advanced forecasting accessible and practical for operators." },
+    { role:"Founder | Chief Executive Officer", name:"Akshar Kothapalli", img:"file:///Users/aksharkothapalli/Downloads/Screenshot%202024-06-07%20at%203.17.10%E2%80%AFPM.jpg", bio:"Founder & builder. Leads product, strategy, and client outcomes. Mission: make advanced forecasting accessible and practical for operators." },
     { role:"Chief Financial Officer", name:"Siddanth Baddevolu", img:"https://media.licdn.com/dms/image/v2/D4E03AQEUG7HxecFyEw/profile-displayphoto-shrink_400_400/B4EZPq3bzXHgAg-/0/1734812223040?e=1762387200&v=beta&t=bloWpPztQLoP8lSpob6B6LmG_C8sBNHu_pVR81iK6us", bio:"Financial strategy and FP&A design. Optimizes cash, manages risk, and operationalizes value realization." },
-    { role:"Chief Operating Officer", name:"Praval Goli", img:"https://lh3.googleusercontent.com/sitesv/AICyYdajzT0VCTOS7cNQmGLCtk3uchhpwhJMB9f6XetYUuF8Ze11SrXrv6FT7YY9UulMrmvRHPth8UvmvznAy-UAdoOEm1Ox-QAPJ0bOYQauA2iEFCO3asO9WieiVIKliTICFVMQbvFPJX18GioRWrFeISwEaqrS8x6p8rv-U9tFtbmbpqjbZ3OUOvhVMbzrRFdAP6YZD9QUm5ZQwlb6UhuSlnAH7C5Y8BLxrG4o_Xo=w1280", bio:"Operations and delivery excellence. Orchestrates onboarding, integrations, process improvement and execution." },
+    { role:"Chief Operating Officer", name:"Praval Goli", img:"file:///Users/aksharkothapalli/Downloads/aragonai-e4c15cc7-5c64-4fda-a2d3-5fca142a0852.jpg", bio:"Operations and delivery excellence. Orchestrates onboarding, integrations, process improvement and execution." },
   ];
   return (
     <main style={{padding:'3.2rem 0'}}>
