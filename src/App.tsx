@@ -446,7 +446,7 @@ function CaseStudies(){
 
 function About(){
   const team = [
-    { role:"Founder | Chief Executive Officer", name:"Akshar Kothapalli", img:"file:///Users/aksharkothapalli/Downloads/Screenshot%202024-06-07%20at%203.17.10%E2%80%AFPM.jpg", bio:"Founder & builder. Leads product, strategy, and client outcomes. Mission: make advanced forecasting accessible and practical for operators." },
+    { role:"Founder | Chief Executive Officer", name:"Akshar Kothapalli", img:"https://media.licdn.com/dms/image/v2/D4D03AQEHIol7A8u3CQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727413358812?e=1762387200&v=beta&t=e1_N4ilFZoPrYYyM2wQ785x-4hGF54KdJtgb3oGzGQM", bio:"Founder & builder. Leads product, strategy, and client outcomes. Mission: make advanced forecasting accessible and practical for operators." },
     { role:"Chief Financial Officer", name:"Siddanth Baddevolu", img:"https://media.licdn.com/dms/image/v2/D4E03AQEUG7HxecFyEw/profile-displayphoto-shrink_400_400/B4EZPq3bzXHgAg-/0/1734812223040?e=1762387200&v=beta&t=bloWpPztQLoP8lSpob6B6LmG_C8sBNHu_pVR81iK6us", bio:"Financial strategy and FP&A design. Optimizes cash, manages risk, and operationalizes value realization." },
     { role:"Chief Operating Officer", name:"Praval Goli", img:"file:///Users/aksharkothapalli/Downloads/aragonai-e4c15cc7-5c64-4fda-a2d3-5fca142a0852.jpg", bio:"Operations and delivery excellence. Orchestrates onboarding, integrations, process improvement and execution." },
   ];
