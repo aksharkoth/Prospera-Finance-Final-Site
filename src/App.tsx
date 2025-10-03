@@ -579,7 +579,7 @@ function SiteFooter({ onNav }:{ onNav:(r:Route)=>void }){
       <div className="container" style={{display:'grid', gridTemplateColumns:'repeat(4,minmax(0,1fr))', gap:18, padding:'2.2rem 0'}}>
         <div>
           <div style={{display:'flex',gap:8,alignItems:'center',fontWeight:900}}><Brain size={18}/>Prospera Finance</div>
-          <p style={{color:'#cffafe'}}>ML time-series financial forecasting implemented with 5+ firms.</p>
+          <p style={{color:'#cffafe'}}> </p>
         </div>
         <div>
           <div style={{fontWeight:900, marginBottom:8}}>Company</div>
