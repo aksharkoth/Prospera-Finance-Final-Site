@@ -446,7 +446,7 @@ function CaseStudies(){
 
 function About(){
   const team = [
-    { role:"Founder | Chief Executive Officer", name:"Akshar Kothapalli", img:"https://media.licdn.com/dms/image/v2/D4D03AQEHIol7A8u3CQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727413358812?e=1762387200&v=beta&t=e1_N4ilFZoPrYYyM2wQ785x-4hGF54KdJtgb3oGzGQM", bio:"Founder & builder. Leads product, strategy, and client outcomes. Mission: make advanced forecasting accessible and practical for operators." },
+    { role:"Founder | Chief Executive Officer", name:"Akshar Kothapalli", img:"https://media.licdn.com/dms/image/v2/D4D03AQFAZfQ-p_YHsg/profile-displayphoto-scale_400_400/B4DZmnVn0XH4Ag-/0/1759449087863?e=1762387200&v=beta&t=oNUE9YCRefbCRIKnyFgwVvX96mIQj7a2KdElzu0dlPk", bio:"Founder & builder. Leads product, strategy, and client outcomes. Mission: make advanced forecasting accessible and practical for operators." },
     { role:"Chief Financial Officer", name:"Siddanth Baddevolu", img:"https://media.licdn.com/dms/image/v2/D4E03AQEUG7HxecFyEw/profile-displayphoto-shrink_400_400/B4EZPq3bzXHgAg-/0/1734812223040?e=1762387200&v=beta&t=bloWpPztQLoP8lSpob6B6LmG_C8sBNHu_pVR81iK6us", bio:"Financial strategy and FP&A design. Optimizes cash, manages risk, and operationalizes value realization." },
     { role:"Chief Operating Officer", name:"Praval Goli", img:"https://media.licdn.com/dms/image/v2/D4D03AQHByNhgGoeHYg/profile-displayphoto-scale_400_400/B4DZmnVfqCGsAg-/0/1759449054195?e=1762387200&v=beta&t=AKf7D7O0V1XZsHNZZ16eay0Phrd0mCo1ATne0vkzbC0", bio:"Operations and delivery excellence. Orchestrates onboarding, integrations, process improvement and execution." },
   ];
